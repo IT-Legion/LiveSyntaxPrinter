@@ -56,3 +56,6 @@ dmypy.json
 
 # TypeScript / JavaScript
 *.tsbuildinfo
+
+*.venv
+*venv
